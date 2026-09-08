@@ -1,0 +1,7 @@
+/* Estilos globales y tipografía de la aplicación */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  background-color: #f9fafb; /* Fondo gris claro clínico por defecto */
+  color: #1e293b; /* Color de texto pizarra oscuro para una lectura cómoda */
+  min-height: 100vh;
+}
